@@ -1,10 +1,10 @@
-import React from 'react';
-import Document, { Html, Head, Main, NextScript } from 'next/document';
+import React from "react";
+import Document, { Html, Head, Main, NextScript } from "next/document";
 // ---------------------------------------------
 export default class CustomDocument extends Document {
   render() {
     return (
-      <Html lang="en-US" style={{ scrollBehavior: 'smooth !important' }}>
+      <Html lang="en-US" style={{ scrollBehavior: "smooth !important" }}>
         <Head>
           {/* Google Tag Manager */}
           <script
@@ -22,7 +22,7 @@ export default class CustomDocument extends Document {
               src="https://www.googletagmanager.com/ns.html?id=GTM-KB2WKJS"
               height="0"
               width="0"
-              style={{ display: 'none', visibility: 'hidden' }}
+              style={{ display: "none", visibility: "hidden" }}
             ></iframe>
           </noscript>
           {/* End Google Tag Manager (noscript) */}

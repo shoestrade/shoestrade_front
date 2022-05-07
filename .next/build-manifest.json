@@ -1,0 +1,411 @@
+{
+  "polyfillFiles": ["static/chunks/polyfills-6e054d56079d4b93ebe8.js"],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/RkOasi_cKZHiIVde5pZ7N/_buildManifest.js",
+    "static/RkOasi_cKZHiIVde5pZ7N/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/3044-9abf625600bd85808001.js",
+      "static/chunks/4039-49496e2915ecaab13916.js",
+      "static/chunks/pages/index-5f45c4b7a2e07bef2e8d.js"
+    ],
+    "/404": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/pages/404-4d1ec05c2a72f8ee7c7f.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/css/1441ac041e70a0aa0e14.css",
+      "static/chunks/pages/_app-704d7d760674aa0fc160.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/pages/_error-444262b803a3cfbf88e8.js"
+    ],
+    "/components": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/3044-9abf625600bd85808001.js",
+      "static/chunks/pages/components-edc70de2961c65c69057.js"
+    ],
+    "/documentation/license": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/license-c5bf4b338d314a188df7.js"
+    ],
+    "/documentation/quick-start": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/quick-start-2d102b100eb8da9e4274.js"
+    ],
+    "/documentation/react/alerts": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/alerts-a4147dc3951c7fee7a9c.js"
+    ],
+    "/documentation/react/buttons/filled": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4031-ac6f55af49b1bd420ccc.js",
+      "static/chunks/pages/documentation/react/buttons/filled-2e73a7a91b5c497ac0c1.js"
+    ],
+    "/documentation/react/buttons/link": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4031-ac6f55af49b1bd420ccc.js",
+      "static/chunks/pages/documentation/react/buttons/link-0c02fa1e7df7519e4bc0.js"
+    ],
+    "/documentation/react/buttons/outline": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4031-ac6f55af49b1bd420ccc.js",
+      "static/chunks/pages/documentation/react/buttons/outline-fd6807fcf3a86c0e45be.js"
+    ],
+    "/documentation/react/cards": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/3044-9abf625600bd85808001.js",
+      "static/chunks/pages/documentation/react/cards-239d55381aa614ee6bce.js"
+    ],
+    "/documentation/react/checkbox": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/checkbox-f39b666987cdcc1f2b4e.js"
+    ],
+    "/documentation/react/dropdowns/filled": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4777-902ea07270dc50af439c.js",
+      "static/chunks/pages/documentation/react/dropdowns/filled-f24d6011575e4f822c90.js"
+    ],
+    "/documentation/react/dropdowns/link": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4777-902ea07270dc50af439c.js",
+      "static/chunks/pages/documentation/react/dropdowns/link-38e1012911d931d91899.js"
+    ],
+    "/documentation/react/dropdowns/outline": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4777-902ea07270dc50af439c.js",
+      "static/chunks/pages/documentation/react/dropdowns/outline-4f3bbbcddda2a9094488.js"
+    ],
+    "/documentation/react/dropups/filled": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4777-902ea07270dc50af439c.js",
+      "static/chunks/pages/documentation/react/dropups/filled-dee8ba34d558679ea152.js"
+    ],
+    "/documentation/react/dropups/link": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4777-902ea07270dc50af439c.js",
+      "static/chunks/pages/documentation/react/dropups/link-cbebdc2989f078e5186d.js"
+    ],
+    "/documentation/react/dropups/outline": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/4777-902ea07270dc50af439c.js",
+      "static/chunks/pages/documentation/react/dropups/outline-71d0dc4f7085038ff208.js"
+    ],
+    "/documentation/react/images": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/images-aedcc03eedaaf6e5c5cc.js"
+    ],
+    "/documentation/react/inputs": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/inputs-ccf736f9211bfc177564.js"
+    ],
+    "/documentation/react/labels": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/labels-171a3a4a9516f40f7493.js"
+    ],
+    "/documentation/react/menus": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/menus-16c83d75cce7b57f3adf.js"
+    ],
+    "/documentation/react/modals": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/modals-d2e98cdf94acde12db55.js"
+    ],
+    "/documentation/react/navbars": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/navbars-52297113c73b5f98ae48.js"
+    ],
+    "/documentation/react/paginations": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/paginations-98daa8d9a279326277fe.js"
+    ],
+    "/documentation/react/popovers": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/popovers-e9767943a840a06d0e08.js"
+    ],
+    "/documentation/react/progressbars": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/progressbars-361565480d710e5580c8.js"
+    ],
+    "/documentation/react/radioButton": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/radioButton-c0921eef9beb5491f66c.js"
+    ],
+    "/documentation/react/tabs/icon": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/tabs/icon-c0975b6c74082b055184.js"
+    ],
+    "/documentation/react/tabs/text": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/tabs/text-dffef6ed09f978bb54f3.js"
+    ],
+    "/documentation/react/textareas": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/textareas-df3fb42ab4dc452e25be.js"
+    ],
+    "/documentation/react/tooltips": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/tooltips-45d72a3ec116e41b9fe7.js"
+    ],
+    "/documentation/react/typography/headings": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/typography/headings-ec492fe0e40eb31f29ac.js"
+    ],
+    "/documentation/react/typography/leadText": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/typography/leadText-73ded26d0867767d6dad.js"
+    ],
+    "/documentation/react/typography/paragraph": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/typography/paragraph-2c2255a588eaf1cbb779.js"
+    ],
+    "/documentation/react/typography/quote": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/typography/quote-dfb7548072a087342065.js"
+    ],
+    "/documentation/react/typography/small": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/react/typography/small-0720d6bcdc4e65aaafae.js"
+    ],
+    "/documentation/what-is-tailwind-css": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/5592-16eb5f686c2def05c731.js",
+      "static/chunks/pages/documentation/what-is-tailwind-css-e3b41e36415d76adb78d.js"
+    ],
+    "/presentation": [
+      "static/chunks/webpack-3023130fe8d1360585c8.js",
+      "static/chunks/framework-106d25c2ed81dc45938c.js",
+      "static/chunks/main-1edd7ef5819b2a11bbed.js",
+      "static/chunks/1000-f37b02486ccfaa911cf0.js",
+      "static/chunks/7053-b1b879f66e9b089fb320.js",
+      "static/chunks/8485-f840b0c6dfa2d01f732b.js",
+      "static/chunks/3044-9abf625600bd85808001.js",
+      "static/chunks/4039-49496e2915ecaab13916.js",
+      "static/chunks/pages/presentation-31a80b5f96b26104aff2.js"
+    ]
+  },
+  "ampFirstPages": []
+}

@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
-import Tab from 'components/Tab/Tab';
-import TabList from 'components/Tab/TabList';
-import TabItem from 'components/Tab/TabItem';
-import TabContent from 'components/Tab/TabContent';
-import TabPane from 'components/Tab/TabPane';
-import Icon from 'components/Icon/Icon';
+import React, { useState } from "react";
+import Tab from "components/Tab/Tab";
+import TabList from "components/Tab/TabList";
+import TabItem from "components/Tab/TabItem";
+import TabContent from "components/Tab/TabContent";
+import TabPane from "components/Tab/TabPane";
+import Icon from "components/Icon/Icon";
 
 export function TabIcons({ color }) {
   const [openTab, setOpenTab] = useState(1);

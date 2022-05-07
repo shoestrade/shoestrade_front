@@ -1,17 +1,17 @@
 export default function Framwroks(type, setShowModal, setModalText) {
   switch (type) {
-    case 'react':
+    case "react":
       break;
-    case 'angular':
+    case "angular":
       // window.location = '/documentation/angular/alerts';
       break;
-    case 'html':
+    case "html":
       // window.location = '/documentation/css/alerts';
       break;
-    case 'vue':
+    case "vue":
       // this.location = '/documentation/vue/alerts';
       break;
-    case 'javascript':
+    case "javascript":
       // this.location = '/documentation/javascript/alerts';
       break;
     default:
